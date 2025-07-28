@@ -1,0 +1,8 @@
+.env
+__pycache__/
+chat_history.txt
+*.pyc
+*.pyo
+*.pyd
+instance/
+.env.*
